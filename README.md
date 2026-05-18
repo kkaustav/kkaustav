@@ -114,6 +114,32 @@ class CloudAIProfessional:
       Grand Finalist — Top 800 of 31,000 teams at Meta × PyTorch OpenEnv Hackathon. Fine-tuned 3B parameter model achieving <strong>97.6% detection accuracy</strong> for AWS misconfigurations.
     </td>
   </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/ALEXA%20FLIGHT%20BOOKER-00A4EF?style=for-the-badge&logo=amazon-alexa&logoColor=white" alt="Alexa Flight Booker" /><br/>
+      <sub>Amazon Alexa · AWS Lambda · Python 3.12 · SerpAPI · Serverless</sub><br/><br/>
+      Fully voice-activated flight search skill using Amazon Alexa and serverless Python functions on AWS Lambda, enabling dynamic route, timing, and fare lookups via SerpAPI.
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/TARGET%20BRAZIL%20ANALYTICS-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white" alt="E-Commerce Analytics" /><br/>
+      <sub>SQL · Google BigQuery · Data Analytics · E-Commerce ETL</sub><br/><br/>
+      Comprehensive data analytics and business intelligence project optimizing retail operations, supply chain delivery timelines, and customer segmentation on the Target Brazil dataset.
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/FUTURE%20PROJECT%205-764ABC?style=for-the-badge&logo=github&logoColor=white" alt="Project 5" /><br/>
+      <sub>Tech · Stack · High · Lights</sub><br/><br/>
+      Replace this text with a brief description of your fifth project. Explain what problem it solves and what impact it made.
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/FUTURE%20PROJECT%206-2496ED?style=for-the-badge&logo=github&logoColor=white" alt="Project 6" /><br/>
+      <sub>Tech · Stack · High · Lights</sub><br/><br/>
+      Replace this text with a brief description of your sixth project. Explain what problem it solves and what impact it made.
+    </td>
+  </tr>
 </table>
 </div>
 
