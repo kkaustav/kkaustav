@@ -2,23 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kaustubh%20Kar&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AWS%20Cloud%20%26%20AI%20Professional&descAlignY=55&descSize=22" />
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/kaustubhkar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:kaustav.kar2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/kkaustav">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h1 align="center">Kaustubh Kar</h1>
 
 ## 🗂️ Professional Summary
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 I'm an **AWS Cloud & AI Professional** with 9+ years at Amazon across AWS and Alexa AI — combining enterprise customer success, cloud operations, and hands-on AI/ML experience.
 
@@ -44,23 +31,8 @@ class CloudAIProfessional:
             solve_complex_problems()
 ```
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-## 🎬 Introduction
-
-<div align="center">
-
-[![Watch Introduction](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID)
-
-</div>
-
-<p align="center">
-  Replace <code>YOUR_VIDEO_ID</code> with your actual YouTube video ID.
-</p>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 ## 🔧 Tech Stack & Tools
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <table>
   <tr>
@@ -89,9 +61,8 @@ class CloudAIProfessional:
   </tr>
 </table>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 ## ☁️ AWS & Cloud Expertise
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <table>
   <tr>
@@ -124,9 +95,8 @@ class CloudAIProfessional:
   </tr>
 </table>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 ## 🚀 Featured Projects
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <table>
   <tr>
@@ -143,9 +113,8 @@ class CloudAIProfessional:
   </tr>
 </table>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 ## 📊 GitHub Statistics
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=kkaustav&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
@@ -156,9 +125,8 @@ class CloudAIProfessional:
   <img src="https://streak-stats.demolab.com?user=kkaustav&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 ## 🏅 Certifications
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 - 🥇 **AWS Certified Cloud Practitioner** (2026 & 2023)
 - 🤖 **AWS Partner: Generative AI Essentials (Business)** — 2024
@@ -166,9 +134,8 @@ class CloudAIProfessional:
 - 🏢 **AWS Account Team Management SME** — 2024
 - 🎓 **AWS Certified Trainer** — 2023
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 ## 📡 Let's Connect
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaustubhkar">
