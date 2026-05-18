@@ -4,7 +4,7 @@
 
 <h1 align="center">Kaustubh Kar</h1>
 
-## 🗂️ Professional Summary
+### 🗂️ Professional Summary
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 I'm an **AWS Cloud & AI Professional** with 9+ years at Amazon across AWS and Alexa AI — combining enterprise customer success, cloud operations, and hands-on AI/ML experience.
@@ -31,7 +31,7 @@ class CloudAIProfessional:
             solve_complex_problems()
 ```
 
-## 🔧 Tech Stack & Tools
+### 🔧 Tech Stack & Tools
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <table>
@@ -61,7 +61,7 @@ class CloudAIProfessional:
   </tr>
 </table>
 
-## ☁️ AWS & Cloud Expertise
+### ☁️ AWS & Cloud Expertise
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <table>
@@ -95,7 +95,7 @@ class CloudAIProfessional:
   </tr>
 </table>
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <table>
@@ -113,7 +113,7 @@ class CloudAIProfessional:
   </tr>
 </table>
 
-## 📊 GitHub Statistics
+### 📊 GitHub Statistics
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
@@ -125,7 +125,7 @@ class CloudAIProfessional:
   <img src="https://streak-stats.demolab.com?user=kkaustav&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
 </p>
 
-## 🏅 Certifications
+### 🏅 Certifications
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 - 🥇 **AWS Certified Cloud Practitioner** (2026 & 2023)
@@ -134,7 +134,7 @@ class CloudAIProfessional:
 - 🏢 **AWS Account Team Management SME** — 2024
 - 🎓 **AWS Certified Trainer** — 2023
 
-## 📡 Let's Connect
+### 📡 Let's Connect
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
