@@ -53,7 +53,7 @@ class CloudAIProfessional:
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /><br/>
+      <img src="https://img.shields.io/badge/BIGQUERY-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white" alt="BigQuery" /><br/>
       <img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
       <img src="https://img.shields.io/badge/AWS%20ATHENA-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Athena" />
     </td>
