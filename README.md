@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=70&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=180&lines=KAUSTUBH+KAR;AWS+Cloud+%26+AI+Professional" alt="Kaustubh Kar" />
 </div>
 
-<h1 align="center">KAUSTUBH KAR</h1>
-
 ### 🗂️ Professional Summary
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
