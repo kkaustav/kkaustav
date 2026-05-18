@@ -130,30 +130,18 @@ class CloudAIProfessional:
 
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/FUTURE%20PROJECT%205-764ABC?style=for-the-badge&logo=github&logoColor=white" alt="Project 5" /><br/>
-      <sub>Tech · Stack · High · Lights</sub><br/><br/>
-      Replace this text with a brief description of your fifth project. Explain what problem it solves and what impact it made.
+      <img src="https://img.shields.io/badge/BAKERY%20INTELLIGENCE%20AGENT-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Bakery Intelligence Agent" /><br/>
+      <sub>Google ADK · Gemini 3.1 Pro · BigQuery · Maps MCP · FastAPI</sub><br/><br/>
+      AI-powered location intelligence agent using Google ADK and MCP servers to help business owners make data-driven decisions on foot traffic, competitor pricing, and demographics.
     </td>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/FUTURE%20PROJECT%206-2496ED?style=for-the-badge&logo=github&logoColor=white" alt="Project 6" /><br/>
-      <sub>Tech · Stack · High · Lights</sub><br/><br/>
-      Replace this text with a brief description of your sixth project. Explain what problem it solves and what impact it made.
+      <img src="https://img.shields.io/badge/GITHUB%20DEV%20CARD%20GENERATOR-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Dev Card Generator" /><br/>
+      <sub>GCP Cloud Run · Vertex AI · Google ADK · FastAPI · Docker</sub><br/><br/>
+      Serverless AI web application deployed on GCP that generates premium, personalized developer showcase cards from GitHub profiles using Gemini 2.5 Flash and Vertex AI Memory Bank.
     </td>
   </tr>
 </table>
 </div>
-
-### 📊 GitHub Statistics
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=kkaustav&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="160" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kkaustav&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kkaustav&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
-</p>
 
 ### 🏅 Certifications
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
