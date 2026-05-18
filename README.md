@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=KAUSTUBH%20KAR&fontSize=130&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AWS%20Cloud%20%26%20AI%20Professional&descAlignY=55&descSize=22" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=70&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=180&lines=KAUSTUBH+KAR;AWS+Cloud+%26+AI+Professional" alt="Kaustubh Kar" />
 </div>
 
 <h1 align="center">KAUSTUBH KAR</h1>
