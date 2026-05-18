@@ -132,7 +132,7 @@ class CloudAIProfessional:
 ### 🏅 Certifications
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-- 🥇 **AWS Certified Cloud Practitioner** (2026 & 2023)
+- 🥇 **AWS Certified Cloud Practitioner** — 2023
 - 🤖 **AWS Partner: Generative AI Essentials (Business)** — 2024
 - 🧠 **UpGrad–Microsoft Generative AI Foundations** — 2025
 - 🏢 **AWS Account Team Management SME** — 2024
