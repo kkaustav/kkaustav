@@ -143,6 +143,18 @@ class CloudAIProfessional:
 </table>
 </div>
 
+### 📊 GitHub Statistics
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=kkaustav&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="160" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kkaustav&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kkaustav&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
+</p>
+
 ### 🏅 Certifications
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
