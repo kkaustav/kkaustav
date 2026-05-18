@@ -62,6 +62,7 @@ class CloudAIProfessional:
 ### ☁️ AWS & Cloud Expertise
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="50%">
@@ -92,10 +93,12 @@ class CloudAIProfessional:
     </td>
   </tr>
 </table>
+</div>
 
 ### 🚀 Featured Projects
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="50%">
@@ -110,6 +113,7 @@ class CloudAIProfessional:
     </td>
   </tr>
 </table>
+</div>
 
 ### 📊 GitHub Statistics
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
