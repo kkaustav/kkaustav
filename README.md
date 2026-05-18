@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kaustubh%20Kar&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AWS%20Cloud%20%26%20AI%20Professional&descAlignY=55&descSize=22" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=KAUSTUBH%20KAR&fontSize=130&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AWS%20Cloud%20%26%20AI%20Professional&descAlignY=55&descSize=22" />
 </div>
 
-<h1 align="center">Kaustubh Kar</h1>
+<h1 align="center">KAUSTUBH KAR</h1>
 
 ### 🗂️ Professional Summary
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
