@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=70&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=180&lines=KAUSTUBH+KAR;AWS+Cloud+%26+AI+Professional" alt="Kaustubh Kar" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&height=120&lines=KAUSTUBH+KAR;AWS+Cloud+%26+AI+Professional" alt="Kaustubh Kar" />
 </div>
 
 ### 🗂️ Professional Summary
