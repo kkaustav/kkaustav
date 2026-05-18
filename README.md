@@ -32,6 +32,7 @@ class CloudAIProfessional:
 ### 🔧 Tech Stack & Tools
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<div align="center">
 <table>
   <tr>
     <th align="center">Languages</th>
@@ -58,6 +59,7 @@ class CloudAIProfessional:
     </td>
   </tr>
 </table>
+</div>
 
 ### ☁️ AWS & Cloud Expertise
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
