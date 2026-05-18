@@ -34,8 +34,21 @@ class CloudAIProfessional:
 <table> <tr> <td align="center" width="50%"> <img src="https://img.shields.io/badge/AWS%20CLOUD-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br/> IAM · S3 · VPC · EC2 · Athena<br/>CloudWatch · Bedrock · Config · Security Hub<br/>Strands Agents SDK · Savings Plans · RI </td> <td align="center" width="50%"> <img src="https://img.shields.io/badge/CLOUD%20SECURITY-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br/> IAM Policy Auditing · Network ACL Review<br/>Security Hub Integration · Guardrails<br/>Fraud & Compliance Escalations · Risk Mitigation </td> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/AI%20%26%20LLM-764ABC?style=for-the-badge&logo=openai&logoColor=white" /><br/> LLM Fine-Tuning (LoRA · Unsloth · Qwen2.5)<br/>Amazon Nova Lite · Bedrock Guardrails<br/>NLU · Annotation Quality · Alexa AI </td> <td align="center"> <img src="https://img.shields.io/badge/MLOPS%20%26%20DEVOPS-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/> Docker · FastAPI · HuggingFace Spaces<br/>CI/CD · CloudWatch Logging<br/>Automation Workflows · SOP Development </td> </tr> </table> <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 🚀 Featured Projects
 <table> <tr> <td align="center" width="50%"> <img src="https://img.shields.io/badge/NL%20QUERY%20AGENT-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br/> <sub>AWS Bedrock · Strands SDK · FastAPI · Athena · Pandas</sub><br/><br/> Production-style agentic system on AWS for natural language querying over structured datasets — intelligently routing across Pandas and Athena with zero SQL required, at ~$1/month. </td> <td align="center" width="50%"> <img src="https://img.shields.io/badge/AWS%20SECURITY%20AUDITOR-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br/> <sub>LLM Fine-Tuning · Qwen2.5 · LoRA · Unsloth · HuggingFace</sub><br/><br/> Grand Finalist — Top 800 of 31,000 teams at Meta × PyTorch OpenEnv Hackathon. Fine-tuned 3B parameter model achieving <strong>97.6% detection accuracy</strong> for AWS misconfigurations. </td> </tr> </table> <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-📊 GitHub Statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kkaustav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkaustav&layout=compact&theme=tokyonight&hide_border=true" height="160"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=kkaustav&theme=tokyonight&hide_border=true" height="160"/> </p> <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=kkaustav&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kkaustav&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kkaustav&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 🏅 Certifications
 🥇 AWS Certified Cloud Practitioner (2026 & 2023)
 
