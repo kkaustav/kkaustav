@@ -109,6 +109,16 @@ class CloudAIProfessional:
 </table>
 </div>
 
+```python
+# My Cloud & AI Journey in Code
+
+experience = {
+    "AWS Cloud & Security": ["IAM", "S3", "VPC", "Athena", "CloudWatch", "Security Hub", "Cost Optimization"],
+...
+    mitigate_security_risks()
+    mentor_and_enable_teams()
+    
+
 ### 🚀 Featured Projects
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
