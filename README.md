@@ -110,7 +110,7 @@ class CloudAIProfessional:
 </div>
 
 <div align="center">
-<table><tr><td>
+<table width="70%"><tr><td>
 
 ```python
 # My Cloud & AI Journey in Code
