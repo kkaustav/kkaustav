@@ -16,7 +16,7 @@
 
 
 <p>
-  <strong><big><big>🗂️ Professional Summary</big></big></big></big></strong><br>
+  <strong><big><big><big><big>🗂️ Professional Summary</big></big></big></big></strong><br>
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
@@ -44,9 +44,10 @@ class CloudAIProfessional:
             solve_complex_problems()
 ```
 
-
-### 🔧 Tech Stack & Tools
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<p>
+  <strong><big><big> 🔧 TECH STACK & TOOLS</big></big></strong><br>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
 <div align="center">
 <table>
@@ -77,9 +78,10 @@ class CloudAIProfessional:
 </table>
 </div>
 
-
-### ☁️ AWS Cloud & AI Expertise
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<p>
+  <strong><big><big> ☁️ AWS CLOUD & AI EXPERTISE</big></big></strong><br>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
 <div align="center">
 <table>
