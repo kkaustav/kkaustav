@@ -109,34 +109,28 @@ class CloudAIProfessional:
 </table>
 </div>
 
-<div align="center">
-<table>
-  <tr>
-    <td>
-
 ```python
-# My Cloud & AI Journey in Code
+                            # My Cloud & AI Journey in Code
 
-experience = {
-    "AWS Cloud & Security": ["IAM", "S3", "VPC", "Athena", "CloudWatch", "Security Hub", "Cost Optimization"],
-    "AI & Machine Learning": ["LLM Fine-Tuning", "Bedrock", "Amazon Nova", "NLU", "LoRA", "Hugging Face"],
-    "Tools & Frameworks": ["Python", "SQL", "FastAPI", "Pandas", "PyTorch", "Tableau"],
-    "Core Competencies": ["Customer Success", "Escalation Management", "Automation", "Risk Mitigation", "Mentorship"]
-}
+    experience = {
+        "AWS Cloud & Security": ["IAM", "S3", "VPC", "Athena", "CloudWatch", 
+                                 "Security Hub", "Cost Optimization"],
+        "AI & Machine Learning": ["LLM Fine-Tuning", "Bedrock", "Amazon Nova", 
+                                  "NLU", "LoRA", "Hugging Face"],
+        "Tools & Frameworks": ["Python", "SQL", "FastAPI", "Pandas", 
+                               "PyTorch", "Tableau"],
+        "Core Competencies": ["Customer Success", "Escalation Management", 
+                              "Automation", "Risk Mitigation", "Mentorship"]
+    }
 
-continuous_learning = True
-while continuous_learning:
-    drive_customer_success()
-    automate_cloud_workflows()
-    fine_tune_llms()
-    mitigate_security_risks()
-    mentor_and_enable_teams()
+    continuous_learning = True
+    while continuous_learning:
+        drive_customer_success()
+        automate_cloud_workflows()
+        fine_tune_llms()
+        mitigate_security_risks()
+        mentor_and_enable_teams()
 ```
-
-    </td>
-  </tr>
-</table>
-</div>
 
 ### 🚀 Featured Projects
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
