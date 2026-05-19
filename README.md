@@ -44,7 +44,7 @@ class CloudAIProfessional:
 ```
 
 <div>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FFFFFF&vCenter=true&width=500&height=30&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%93%8A+TECH%20STACK%20%26%20TOOLS" alt="TECH STACK & TOOLS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FFFFFF&vCenter=true&width=600&height=25&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%94%A7+TECH+STACK+%26+TOOLS" alt="TECH STACK & TOOLS" />
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
@@ -78,7 +78,7 @@ class CloudAIProfessional:
 </div>
 
 <div>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FFFFFF&vCenter=true&width=500&height=30&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%93%8A+AWS+CLOUD+%26+AI+EXPERTISE" alt="AWS CLOUD & AI EXPERTISE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FFFFFF&vCenter=true&width=600&height=25&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%E2%98%81%EF%B8%8F+AWS+CLOUD+%26+AI+EXPERTISE" alt="AWS CLOUD & AI EXPERTISE" />
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
@@ -146,7 +146,7 @@ while continuous_learning:
 </div>
 
 <div>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FFFFFF&vCenter=true&width=500&height=30&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%93%8A+FEATURED+PROJECTS" alt="FEATURED PROJECTS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FFFFFF&vCenter=true&width=600&height=25&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%9A%80+FEATURED+PROJECTS" alt="FEATURED PROJECTS" />
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
@@ -167,7 +167,7 @@ while continuous_learning:
 </p>
 
 <div>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FFFFFF&vCenter=true&width=500&height=30&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%93%8A+CERTIFICATIONS" alt="CERTIFICATIONS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FFFFFF&vCenter=true&width=600&height=25&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%8F%85+CERTIFICATIONS" alt="CERTIFICATIONS" />
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
@@ -179,6 +179,10 @@ while continuous_learning:
 
 <div>
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FFFFFF&vCenter=true&width=500&height=30&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%93%8A+CONTACT+ME" alt="CONTACT ME" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+<div>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FFFFFF&vCenter=true&width=600&height=25&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%93%A1+CONTACT+ME" alt="CONTACT ME" />
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
