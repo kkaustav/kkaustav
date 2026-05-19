@@ -109,6 +109,11 @@ class CloudAIProfessional:
 </table>
 </div>
 
+<div align="center">
+<table>
+  <tr>
+    <td>
+
 ```python
 # My Cloud & AI Journey in Code
 
@@ -127,6 +132,11 @@ while continuous_learning:
     mitigate_security_risks()
     mentor_and_enable_teams()
 ```
+
+    </td>
+  </tr>
+</table>
+</div>
 
 ### 🚀 Featured Projects
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
