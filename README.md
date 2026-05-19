@@ -113,8 +113,6 @@ class CloudAIProfessional:
   <table>
     <tr>
       <td width="15%"></td>
-      
-      <td>
 
 ```python
 # My Cloud & AI Journey in Code
