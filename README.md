@@ -116,11 +116,7 @@ class CloudAIProfessional:
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="15%"></td>
-
-```python
+<pre>
 # My Cloud & AI Journey in Code
 
 experience = {
@@ -137,13 +133,8 @@ while continuous_learning:
     fine_tune_llms()
     mitigate_security_risks()
     mentor_and_enable_teams()
-```
-</td>
-  
-  <td width="15%"></td>
-</tr>
-</table>
-</div>
+</pre>
+</div>****
 
 <div>
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FFFFFF&vCenter=true&width=600&height=25&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%9A%80+FEATURED+PROJECTS" alt="FEATURED PROJECTS" />
