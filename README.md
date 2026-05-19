@@ -16,7 +16,7 @@
 
 
 <p>
-  <strong><big><big><big><big>🗂️ Professional Summary</big></big></big></big></strong><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=28&pause=1000&color=FFFFFF&vCenter=true&width=500&height=40&lines=%F0%9F%97%82%EF%B8%8F+Professional+Summary" alt="Professional Summary" /><br>
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
