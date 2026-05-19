@@ -18,6 +18,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FFFFFF&vCenter=true&width=500&height=40&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%97%82%EF%B8%8F+PROFESSIONAL+SUMMARY" alt="PROFESSIONAL SUMMARY" /><br>
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
+<div>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FFFFFF&vCenter=true&width=500&height=30&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%93%8A+PROFESSIONAL+SUMMARY" alt="PROFESSIONAL SUMMARY" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 I'm an **AWS Cloud & AI Professional** with 9+ years at Amazon across AWS and Alexa AI — combining enterprise customer success, cloud operations, and hands-on AI/ML experience.
 
@@ -43,10 +47,10 @@ class CloudAIProfessional:
             solve_complex_problems()
 ```
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FFFFFF&vCenter=true&width=500&height=40&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%94%A7%20TECH%20STACK%20%26%20TOOLS" alt="TECH STACK & TOOLS" /><br>
+<div>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FFFFFF&vCenter=true&width=500&height=30&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%93%8A+TECH%20STACK%20%26%20TOOLS" alt="TECH STACK & TOOLS" />
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+</div>
 
 <div align="center">
 <table>
@@ -77,10 +81,10 @@ class CloudAIProfessional:
 </table>
 </div>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FFFFFF&vCenter=true&width=600&height=40&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%E2%98%81%EF%B8%8F+AWS+CLOUD+%26+AI+EXPERTISE" alt="AWS CLOUD & AI EXPERTISE" /><br>
+<div>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FFFFFF&vCenter=true&width=500&height=30&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%93%8A+AWS+CLOUD+%26+AI+EXPERTISE" alt="AWS CLOUD & AI EXPERTISE" />
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+</div>
 
 <div align="center">
 <table>
@@ -145,15 +149,17 @@ while continuous_learning:
 </table>
 </div>
 
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FFFFFF&vCenter=true&width=500&height=40&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%9A%80+FEATURED+PROJECTS" alt="FEATURED PROJECTS" /><br>
+<div>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FFFFFF&vCenter=true&width=500&height=30&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%93%8A+FEATURED+PROJECTS" alt="FEATURED PROJECTS" />
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+</div>
 
 <table align="center"><tr><td align="center" width="50%"><img src="https://img.shields.io/badge/NL%20QUERY%20AGENT-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="NL Query Agent" /><br/><sub>AWS Bedrock · Strands SDK · FastAPI · Athena · Pandas</sub><br/><br/>Production-style agentic system on AWS for natural language querying over structured datasets — intelligently routing across Pandas and Athena with zero SQL required, at ~$1/month.</td><td align="center" width="50%"><img src="https://img.shields.io/badge/AWS%20SECURITY%20AUDITOR-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Security Auditor" /><br/><sub>LLM Fine-Tuning · Qwen2.5 · LoRA · Unsloth · HuggingFace</sub><br/><br/>Grand Finalist — Top 800 of 31,000 teams at Meta × PyTorch OpenEnv Hackathon. Fine-tuned 3B parameter model achieving <strong>97.6% detection accuracy</strong> for AWS misconfigurations.</td></tr><tr><td align="center" width="50%"><img src="https://img.shields.io/badge/ALEXA%20FLIGHT%20BOOKER-00A4EF?style=for-the-badge&logo=amazon-alexa&logoColor=white" alt="Alexa Flight Booker" /><br/><sub>Amazon Alexa · AWS Lambda · Python 3.12 · SerpAPI · Serverless</sub><br/><br/>Fully voice-activated flight search skill using Amazon Alexa and serverless Python functions on AWS Lambda, enabling dynamic route, timing, and fare lookups via SerpAPI.</td><td align="center" width="50%"><img src="https://img.shields.io/badge/TARGET%20BRAZIL%20ANALYTICS-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white" alt="E-Commerce Analytics" /><br/><sub>SQL · Google BigQuery · Data Analytics · E-Commerce ETL</sub><br/><br/>Comprehensive data analytics and business intelligence project optimizing retail operations, supply chain delivery timelines, and customer segmentation on the Target Brazil dataset.</td></tr><tr><td align="center" width="50%"><img src="https://img.shields.io/badge/BAKERY%20INTELLIGENCE%20AGENT-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Bakery Intelligence Agent" /><br/><sub>Google ADK · Gemini 3.1 Pro · BigQuery · Maps MCP · FastAPI</sub><br/><br/>AI-powered location intelligence agent using Google ADK and MCP servers to help business owners make data-driven decisions on foot traffic, competitor pricing, and demographics.</td><td align="center" width="50%"><img src="https://img.shields.io/badge/GITHUB%20DEV%20CARD%20GENERATOR-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Dev Card Generator" /><br/><sub>GCP Cloud Run · Vertex AI · Google ADK · FastAPI · Docker</sub><br/><br/>Serverless AI web application deployed on GCP that generates premium, personalized developer showcase cards from GitHub profiles using Gemini 2.5 Flash and Vertex AI Memory Bank.</td></tr></table>
 
-<div><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&color=FFFFFF&width=500&height=28&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%93%8A+STATISTICS" alt="STATISTICS" /><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"></div>
+<div>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FFFFFF&vCenter=true&width=500&height=30&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%93%8A+STATISTICS" alt="STATISTICS" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=kkaustav&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="160" alt="GitHub Stats" />
@@ -164,11 +170,10 @@ while continuous_learning:
   <img src="https://streak-stats.demolab.com?user=kkaustav&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
 </p>
 
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FFFFFF&vCenter=true&width=500&height=40&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%8F%85+CERTIFICATIONS" alt="CERTIFICATIONS" /><br>
+<div>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FFFFFF&vCenter=true&width=500&height=30&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%93%8A+CERTIFICATIONS" alt="CERTIFICATIONS" />
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+</div>
 
 - 🥇 **AWS Certified Cloud Practitioner** — 2023
 - 🤖 **AWS Partner: Generative AI Essentials (Business)** — 2024
@@ -176,11 +181,10 @@ while continuous_learning:
 - 🏢 **AWS Account Team Management SME** — 2024
 - 🎓 **AWS Certified Trainer** — 2023
 
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FFFFFF&vCenter=true&width=500&height=40&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%93%A1+CONTACT+ME" alt="CONTACT ME" /><br>
+<div>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FFFFFF&vCenter=true&width=500&height=30&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%93%8A+CONTACT+ME" alt="CONTACT ME" />
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+</div>
 
 <p align="center">
   <a href="https://kaustubhkar.com">
