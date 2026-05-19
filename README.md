@@ -15,7 +15,7 @@
 </p>
 
 
-### 🗂️ Professional Summary
+## 🗂️ Professional Summary
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 
 I'm an **AWS Cloud & AI Professional** with 9+ years at Amazon across AWS and Alexa AI — combining enterprise customer success, cloud operations, and hands-on AI/ML experience.
