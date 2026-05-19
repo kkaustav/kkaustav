@@ -116,16 +116,17 @@ class CloudAIProfessional:
 </div>
 
 <div align="center">
-<pre>
+
+```python
 # My Cloud & AI Journey in Code
-<br>
+
 experience = {
     "AWS Cloud & Security": ["IAM", "S3", "VPC", "Athena", "CloudWatch", "Security Hub", "Cost Optimization"],
     "AI & Machine Learning": ["LLM Fine-Tuning", "Bedrock", "Amazon Nova", "NLU", "LoRA", "Hugging Face"],
     "Tools & Frameworks": ["Python", "SQL", "FastAPI", "Pandas", "PyTorch", "Tableau"],
     "Core Competencies": ["Customer Success", "Escalation Management", "Automation", "Risk Mitigation", "Mentorship"]
 }
-<br>
+
 continuous_learning = True
 while continuous_learning:
     drive_customer_success()
@@ -133,7 +134,8 @@ while continuous_learning:
     fine_tune_llms()
     mitigate_security_risks()
     mentor_and_enable_teams()
-</pre>
+```
+
 </div>
 
 <div>
