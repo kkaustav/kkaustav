@@ -110,7 +110,9 @@ class CloudAIProfessional:
 </div>
 
 <div align="center">
-<pre>
+<table><tr><td>
+
+```python
 # My Cloud & AI Journey in Code
 
 experience = {
@@ -127,7 +129,9 @@ while continuous_learning:
     fine_tune_llms()
     mitigate_security_risks()
     mentor_and_enable_teams()
-</pre>
+```
+
+</td></tr></table>
 </div>
 
 ### 🚀 Featured Projects
