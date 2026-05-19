@@ -169,10 +169,6 @@ while continuous_learning:
 - 🎓 **AWS Certified Trainer** — 2023
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 
-<div>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FF9933&vCenter=true&width=750&height=40&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%93%A1+CONTACT+ME" alt="CONTACT ME" />
-</div>
-
 <p align="center">
   <a href="https://kaustubhkar.com">
     <img src="https://img.shields.io/badge/WEBSITE-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
@@ -194,7 +190,7 @@ while continuous_learning:
     <img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
   </a>
 </p>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
+<br>
 
 <div align="center">
 
