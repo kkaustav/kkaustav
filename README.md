@@ -45,7 +45,6 @@ class CloudAIProfessional:
 
 <div>
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FF9933&vCenter=true&width=750&height=40&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%94%A7+TECH+STACK+%26+TOOLS" alt="TECH STACK & TOOLS" />
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 </div>
 
 <div align="center">
@@ -76,10 +75,10 @@ class CloudAIProfessional:
   </tr>
 </table>
 </div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 
 <div>
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FF9933&vCenter=true&width=750&height=40&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%E2%98%81%EF%B8%8F+AWS+CLOUD+%26+AI+EXPERTISE" alt="AWS CLOUD & AI EXPERTISE" />
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 </div>
 
 <div align="center">
@@ -135,19 +134,18 @@ while continuous_learning:
     mitigate_security_risks()
     mentor_and_enable_teams()
 ```
-
 </div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 
 <div>
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FF9933&vCenter=true&width=750&height=40&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%9A%80+FEATURED+PROJECTS" alt="FEATURED PROJECTS" />
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 </div>
 
 <table align="center"><tr><td align="center" width="50%"><img src="https://img.shields.io/badge/NL%20QUERY%20AGENT-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="NL Query Agent" /><br/><sub>AWS Bedrock · Strands SDK · FastAPI · Athena · Pandas</sub><br/><br/>Production-style agentic system on AWS for natural language querying over structured datasets — intelligently routing across Pandas and Athena with zero SQL required, at ~$1/month.</td><td align="center" width="50%"><img src="https://img.shields.io/badge/AWS%20SECURITY%20AUDITOR-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Security Auditor" /><br/><sub>LLM Fine-Tuning · Qwen2.5 · LoRA · Unsloth · HuggingFace</sub><br/><br/>Grand Finalist — Top 800 of 31,000 teams at Meta × PyTorch OpenEnv Hackathon. Fine-tuned 3B parameter model achieving <strong>97.6% detection accuracy</strong> for AWS misconfigurations.</td></tr><tr><td align="center" width="50%"><img src="https://img.shields.io/badge/ALEXA%20FLIGHT%20BOOKER-00A4EF?style=for-the-badge&logo=amazon-alexa&logoColor=white" alt="Alexa Flight Booker" /><br/><sub>Amazon Alexa · AWS Lambda · Python 3.12 · SerpAPI · Serverless</sub><br/><br/>Fully voice-activated flight search skill using Amazon Alexa and serverless Python functions on AWS Lambda, enabling dynamic route, timing, and fare lookups via SerpAPI.</td><td align="center" width="50%"><img src="https://img.shields.io/badge/TARGET%20BRAZIL%20ANALYTICS-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white" alt="E-Commerce Analytics" /><br/><sub>SQL · Google BigQuery · Data Analytics · E-Commerce ETL</sub><br/><br/>Comprehensive data analytics and business intelligence project optimizing retail operations, supply chain delivery timelines, and customer segmentation on the Target Brazil dataset.</td></tr><tr><td align="center" width="50%"><img src="https://img.shields.io/badge/BAKERY%20INTELLIGENCE%20AGENT-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Bakery Intelligence Agent" /><br/><sub>Google ADK · Gemini 3.1 Pro · BigQuery · Maps MCP · FastAPI</sub><br/><br/>AI-powered location intelligence agent using Google ADK and MCP servers to help business owners make data-driven decisions on foot traffic, competitor pricing, and demographics.</td><td align="center" width="50%"><img src="https://img.shields.io/badge/GITHUB%20DEV%20CARD%20GENERATOR-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Dev Card Generator" /><br/><sub>GCP Cloud Run · Vertex AI · Google ADK · FastAPI · Docker</sub><br/><br/>Serverless AI web application deployed on GCP that generates premium, personalized developer showcase cards from GitHub profiles using Gemini 2.5 Flash and Vertex AI Memory Bank.</td></tr></table>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 
 <div>
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FF9933&vCenter=true&width=750&height=40&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%93%8A+STATISTICS" alt="STATISTICS" />
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 </div>
 
 <p align="center">
@@ -158,10 +156,10 @@ while continuous_learning:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kkaustav&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
 </p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 
 <div>
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FF9933&vCenter=true&width=750&height=40&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%8F%85+CERTIFICATIONS" alt="CERTIFICATIONS" />
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 </div>
 
 - 🥇 **AWS Certified Cloud Practitioner** — 2023
@@ -169,10 +167,10 @@ while continuous_learning:
 - 🧠 **UpGrad–Microsoft Generative AI Foundations** — 2025
 - 🏢 **AWS Account Team Management SME** — 2024
 - 🎓 **AWS Certified Trainer** — 2023
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 
 <div>
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FF9933&vCenter=true&width=750&height=40&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%93%A1+CONTACT+ME" alt="CONTACT ME" />
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 </div>
 
 <p align="center">
@@ -196,6 +194,7 @@ while continuous_learning:
     <img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
   </a>
 </p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 
 <div align="center">
 
