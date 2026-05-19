@@ -138,7 +138,6 @@ while continuous_learning:
 </tr>
 
 ### 🚀 Featured Projects
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
 <table>
