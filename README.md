@@ -2,6 +2,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=45&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&height=120&lines=Hi+%F0%9F%91%8B%2C+I'm+KAUSTUBH+KAR;AWS+Cloud+%26+AI+Professional" alt="Kaustubh Kar" />
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kkaustav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/kaustubhkar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:kaustav.kar2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
 ### 🗂️ Professional Summary
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
