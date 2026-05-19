@@ -107,7 +107,8 @@ class CloudAIProfessional:
     </td>
   </tr>
 </table>
-  # My Cloud & AI Journey in Code
+</div>
+# My Cloud & AI Journey in Code
 
 experience = {
     "AWS Cloud & Security": ["IAM", "S3", "VPC", "Athena", "CloudWatch", "Security Hub", "Cost Optimization"], # [cite: 13, 17, 42, 48]
@@ -123,7 +124,6 @@ while continuous_learning:
     fine_tune_llms()              # [cite: 46]
     mitigate_security_risks()     # [cite: 48]
     mentor_and_enable_teams()     # [cite: 19]
-</div>
 
 ### 🚀 Featured Projects
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
