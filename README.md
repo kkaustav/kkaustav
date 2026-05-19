@@ -134,7 +134,7 @@ while continuous_learning:
     mitigate_security_risks()
     mentor_and_enable_teams()
 </pre>
-</div>****
+</div>
 
 <div>
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FFFFFF&vCenter=true&width=600&height=25&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%9A%80+FEATURED+PROJECTS" alt="FEATURED PROJECTS" />
