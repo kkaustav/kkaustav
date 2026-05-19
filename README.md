@@ -108,7 +108,7 @@ class CloudAIProfessional:
   </tr>
 </table>
 </div>
-```python
+
 # My Cloud & AI Journey in Code
 
 experience = {
