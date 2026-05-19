@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=45&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&height=120&lines=Hi+%F0%9F%91%8B%2C+I'm+KAUSTUBH%20%20%20KAR;AWS+Cloud+%26+AI+Professional" alt="Kaustubh Kar" />
+  <h1>Hi 👋, I'm <b>KAUSTUBH&nbsp;&nbsp;&nbsp;KAR</b></h1>
+  <h2>AWS Cloud & AI Professional</h2>
 </div>
 
 <p align="center">
