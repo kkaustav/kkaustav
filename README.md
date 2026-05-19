@@ -15,7 +15,6 @@
 </p>
 
 
-## 🗂️ Professional Summary
 <p>
   <strong><big><big>🗂️ Professional Summary</big></big></strong><br>
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
