@@ -126,8 +126,7 @@ while continuous_learning:
     fine_tune_llms()
     mitigate_security_risks()
     mentor_and_enable_teams()
-
-
+```
 
 ### 🚀 Featured Projects
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
