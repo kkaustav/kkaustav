@@ -15,7 +15,7 @@
 </p>
 
 <div>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FFFFFF&vCenter=true&width=500&height=30&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%93%8A+PROFESSIONAL+SUMMARY" alt="PROFESSIONAL SUMMARY" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FFFFFF&vCenter=true&width=600&height=25&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%97%82%EF%B8%8F+PROFESSIONAL+SUMMARY" alt="PROFESSIONAL SUMMARY" />
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
