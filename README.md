@@ -201,9 +201,11 @@ while continuous_learning:
   <a href="https://github.com/kkaustav">
     <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  &nbsp;
+  <a href="https://public.tableau.com/app/profile/kaustubh.kar8455/vizzes">
+    <img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  </a>
 </p>
-
-
 
 <div align="center">
 
