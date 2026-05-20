@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=45&pause=1000&color=FF9933&center=true&vCenter=true&width=850&height=120&lines=Hi+%F0%9F%91%8B%2C+I'm+KAUSTUBH%20%20%20KAR;AWS+Cloud+%26+AI+Professional" alt="Kaustubh Kar" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=45&pause=1000&color=FF9933&center=true&vCenter=true&width=850&height=120&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+KAUSTUBH%20%20%20KAR;AWS+Cloud+%26+AI+Professional" alt="Kaustubh Kar" />
 </div>
 
 <p align="center">
