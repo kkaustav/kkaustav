@@ -163,10 +163,8 @@ while continuous_learning:
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FF9933&vCenter=true&width=750&height=40&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%8F%85+CERTIFICATIONS" alt="CERTIFICATIONS" />
 </div>
 
-🎯 AWS Certified Cloud Practitioner — 2023<br>
-🤖 AWS Partner: Generative AI Essentials (Business) — 2024<br>
-🧠 UpGrad–Microsoft Generative AI Foundations — 2025<br>
-🏢 AWS Account Team Management SME — 2024<br>
+🤖 AWS Certified AI Practitioner — 2026<br>
+🧠 GitHub Copilot Certified — 2026<br>
 🎓 AWS Certified Trainer — 2023<br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 
