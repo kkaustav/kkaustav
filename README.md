@@ -188,6 +188,10 @@ while continuous_learning:
   <a href="https://public.tableau.com/app/profile/kaustubh.kar8455/vizzes">
     <img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
   </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/kaustav_kar2">
+    <img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
 </p>
 <br>
 
