@@ -164,7 +164,6 @@ while continuous_learning:
 </div>
 
 🤖 AWS Certified AI Practitioner — 2026<br>
-🧠 GitHub Copilot Certified — 2026<br>
 🎓 AWS Certified Trainer — 2023<br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 
