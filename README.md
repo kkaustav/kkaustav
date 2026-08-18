@@ -155,7 +155,7 @@ while continuous_learning:
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kkaustav&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kkaustav&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=kkaustav&theme=tokyonight&hide_border=true&v=1" height="160" alt="GitHub Streak" />
 </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 
