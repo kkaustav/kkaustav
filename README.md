@@ -138,15 +138,16 @@ while continuous_learning:
 </div>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+FEATURED+PROJECTS" alt="FEATURED PROJECTS" />
-</div>
+<h3 align="left">
+  🚀 <span style="color: #FF9900;">FEATURED PROJECTS</span>
+</h3>
 
 <div align="center">
+
+<!-- HERO CARD: FinOps BI Agent -->
 <table width="100%">
-  <!-- HERO CARD: FinOps BI Agent Content -->
   <tr>
-    <td colspan="2" align="center" style="padding: 18px 18px 10px 18px;">
+    <td align="center" style="padding: 18px;">
       <a href="https://github.com/kkaustav/query-agent">
         <img src="https://img.shields.io/badge/FINOPS%20BI%20AGENT-0A84FF?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="FinOps BI Agent" />
       </a>
@@ -154,12 +155,7 @@ while continuous_learning:
       <b>AWS Bedrock (Nova Pro) · Athena (Trino) · DynamoDB · ECS Fargate · Docker · Streamlit</b>
       <br /><br />
       Autonomous serverless Text-to-SQL copilot and FinOps lakehouse on AWS. Translates plain-English inquiries into AST-sanitized Trino SQL, enforces strict 100 MB scan limits via Athena workgroups, and delivers 3-tier diagnostic narratives (spend trends, candidate root causes, and prescriptive optimization actions) over AWS CUR datasets.
-    </td>
-  </tr>
-  <!-- HERO CARD: Divider & Buttons Row -->
-  <tr>
-    <td colspan="2" align="center" style="padding: 0 18px 18px 18px;">
-      <hr style="border: 0; border-top: 1px solid #30363d; margin: 8px 0 16px 0;" />
+      <br /><br />
       <a href="https://query-agent.streamlit.app/">
         <img src="https://img.shields.io/badge/▶_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" />
       </a>
@@ -169,8 +165,11 @@ while continuous_learning:
       </a>
     </td>
   </tr>
+</table>
 
-  <!-- 2x2 PROJECT GRID - ROW 1: Content -->
+<!-- 2x2 PROJECT GRID -->
+<table width="100%">
+  <!-- ROW 1: Content -->
   <tr>
     <td width="50%" align="center" valign="top" style="padding: 16px 16px 8px 16px;">
       <a href="https://github.com/kkaustav/aws-cloud-security-auditor">
@@ -191,7 +190,7 @@ while continuous_learning:
       Fully voice-activated flight search skill built with Amazon Alexa and serverless Python functions on AWS Lambda, enabling dynamic route, timing, and fare lookups via SerpAPI.
     </td>
   </tr>
-  <!-- 2x2 PROJECT GRID - ROW 1: Buttons -->
+  <!-- ROW 1: Buttons Locked Baseline -->
   <tr>
     <td align="center" valign="bottom" style="padding: 0 16px 16px 16px;">
       <a href="https://github.com/kkaustav/aws-cloud-security-auditor">
@@ -204,8 +203,7 @@ while continuous_learning:
       </a>
     </td>
   </tr>
-
-  <!-- 2x2 PROJECT GRID - ROW 2: Content -->
+  <!-- ROW 2: Content -->
   <tr>
     <td width="50%" align="center" valign="top" style="padding: 16px 16px 8px 16px;">
       <a href="https://github.com/kkaustav/bakery-intelligence-agent">
@@ -226,7 +224,7 @@ while continuous_learning:
       Serverless AI web application deployed on GCP that generates premium, personalized developer showcase cards from GitHub profiles using Gemini 2.5 Flash and Vertex AI Memory Bank.
     </td>
   </tr>
-  <!-- 2x2 PROJECT GRID - ROW 2: Buttons -->
+  <!-- ROW 2: Buttons Locked Baseline -->
   <tr>
     <td align="center" valign="bottom" style="padding: 0 16px 16px 16px;">
       <a href="https://github.com/kkaustav/bakery-intelligence-agent">
@@ -240,6 +238,7 @@ while continuous_learning:
     </td>
   </tr>
 </table>
+
 </div>
 
 </div>
