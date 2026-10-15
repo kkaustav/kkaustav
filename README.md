@@ -172,18 +172,14 @@ while continuous_learning:
   <!-- ROW 1: Content -->
   <tr>
     <td width="50%" align="center" valign="top" style="padding: 16px 16px 8px 16px;">
-      <a href="https://github.com/kkaustav/cloud-config-auditor">
-        <img src="https://img.shields.io/badge/AWS%20SECURITY%20AUDITOR-FF9900?style=for-the-badge&logo=pytorch&logoColor=white" alt="AWS Security Auditor" />
-      </a>
+      <img src="https://img.shields.io/badge/AWS%20SECURITY%20AUDITOR-FF9900?style=for-the-badge&logo=pytorch&logoColor=white" alt="AWS Security Auditor" />
       <br /><br />
       <b>LLM Fine-Tuning · Qwen2.5 · LoRA · Unsloth · HuggingFace</b>
       <br /><br />
       Grand Finalist — Top 800 of 31,000 teams at Meta × PyTorch OpenEnv Hackathon. Fine-tuned 3B parameter model achieving <i>97.6% detection accuracy</i> for AWS misconfigurations.
     </td>
     <td width="50%" align="center" valign="top" style="padding: 16px 16px 8px 16px;">
-      <a href="https://github.com/kkaustav/flight-booker-alexa-skill">
-        <img src="https://img.shields.io/badge/ALEXA%20FLIGHT%20BOOKER-00CAFF?style=for-the-badge&logo=amazonalexa&logoColor=white" alt="Alexa Flight Booker" />
-      </a>
+      <img src="https://img.shields.io/badge/ALEXA%20FLIGHT%20BOOKER-00CAFF?style=for-the-badge&logo=amazonalexa&logoColor=white" alt="Alexa Flight Booker" />
       <br /><br />
       <b>Amazon Alexa · AWS Lambda · Python 3.12 · SerpAPI · Serverless</b>
       <br /><br />
@@ -206,18 +202,14 @@ while continuous_learning:
   <!-- ROW 2: Content -->
   <tr>
     <td width="50%" align="center" valign="top" style="padding: 16px 16px 8px 16px;">
-      <a href="https://github.com/kkaustav/mcp-bakery-agent">
-        <img src="https://img.shields.io/badge/BAKERY%20INTELLIGENCE%20AGENT-00C49F?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Bakery Intelligence Agent" />
-      </a>
+      <img src="https://img.shields.io/badge/BAKERY%20INTELLIGENCE%20AGENT-00C49F?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Bakery Intelligence Agent" />
       <br /><br />
       <b>Google ADK · Gemini 3.1 Pro · BigQuery · Maps MCP · FastAPI</b>
       <br /><br />
       AI-powered location intelligence agent using Google ADK and MCP servers to help business owners make data-driven decisions on foot traffic, competitor pricing, and demographics.
     </td>
     <td width="50%" align="center" valign="top" style="padding: 16px 16px 8px 16px;">
-      <a href="https://github.com/kkaustav/github-card-generator">
-        <img src="https://img.shields.io/badge/GITHUB%20DEV%20CARD%20GENERATOR-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Dev Card Generator" />
-      </a>
+      <img src="https://img.shields.io/badge/GITHUB%20DEV%20CARD%20GENERATOR-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Dev Card Generator" />
       <br /><br />
       <b>GCP Cloud Run · Vertex AI · Google ADK · FastAPI · Docker</b>
       <br /><br />
