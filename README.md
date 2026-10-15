@@ -175,10 +175,10 @@ while continuous_learning:
 </div>
 
 <p align="left">
-  🏆 <strong>Global Account Team Engagement Support SME Badge</strong>, recognizing deep expertise in resolving complex, high-severity Account Access Management cases with a strong command of policy competencies and known issues.<br><br>
-  🚀 Delivered <strong>55 global automation and process-improvement projects</strong> and earned multiple recognition awards for customer obsession, ownership, and crisis resolution.<br><br>
-  📜 Achieved all <strong>5 AWS Micro-credentials</strong> in Agentic AI, MLOps, Incident Response, Application Networking, and Serverless at the Demonstrated level.<br><br>
-  🤝 Consistently recognized by peers, Account Managers, and Senior Leadership for <strong>mentorship, quality improvements, and process excellence</strong> across key product launches.
+  🌟 <strong>Pinnacle Superstar &amp; Most Valuable Player (MVP):</strong> Honored for high-severity crisis management, proactive incident ownership, and customer obsession across enterprise escalations.<br><br>
+  🚀 <strong>Global IMPACT Legend &amp; AWSome Builder (x3):</strong> Recognized for highest SOP authoring and delivering automation workflows globally.<br><br>
+  🛡️ <strong>Global Account Team Management SME &amp; Problem Resolver:</strong> Honored for domain expertise in enterprise access management &amp; governance; earned leadership accolades for resolving high-severity security escalations &amp; de-escalating account crises.<br><br>
+  📜 Achieved all <strong>5 AWS Micro-credentials</strong> in Agentic AI, MLOps, Incident Response, Application Networking, and Serverless at the Demonstrated level.
 </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 
