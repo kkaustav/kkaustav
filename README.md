@@ -138,9 +138,9 @@ while continuous_learning:
 </div>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 
-<h3 align="left">
-  🚀 <span style="color: #FF9900;">FEATURED PROJECTS</span>
-</h3>
+<div align="left" style="margin: 20px 0 10px 0;">
+  <h2>🚀 <b style="color: #FF9900; font-family: monospace, sans-serif;">FEATURED PROJECTS</b></h2>
+</div>
 
 <div align="center">
 
