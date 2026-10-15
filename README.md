@@ -138,8 +138,8 @@ while continuous_learning:
 </div>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 
-<div align="left" style="margin: 20px 0 10px 0;">
-  <h2>🚀 <b style="color: #FF9900; font-family: monospace, sans-serif;">FEATURED PROJECTS</b></h2>
+<div>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FF9933&vCenter=true&width=750&height=40&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%9A%80+FEATURED+PROJECTS" alt="FEATURED PROJECTS" />
 </div>
 
 <div align="center">
