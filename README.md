@@ -167,7 +167,6 @@ while continuous_learning:
 🎓 AWS Certified AI Practitioner, Jun 2026 — Jun 2029<br>
 🎓 AWS Certified Cloud Practitioner, Sept 2026 — Sept 2029<br>
 🎓 AWS Certified Trainer<br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 
@@ -181,6 +180,7 @@ while continuous_learning:
   📜 Achieved all <strong>5 AWS Micro-credentials</strong> in Agentic AI, MLOps, Incident Response, Application Networking, and Serverless at the Demonstrated level.<br><br>
   🤝 Consistently recognized by peers, Account Managers, and Senior Leadership for <strong>mentorship, quality improvements, and process excellence</strong> across key product launches.
 </p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 
 <p align="center">
   <a href="https://kaustubhkar.com">
