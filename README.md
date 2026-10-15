@@ -19,7 +19,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FF9933&vCenter=true&width=750&height=40&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%97%82%EF%B8%8F+PROFESSIONAL+SUMMARY" alt="PROFESSIONAL SUMMARY" />
 </div>
 
-I'm an **AWS Cloud & AI Professional** with 9+ years at Amazon across AWS and Alexa AI — combining enterprise customer success, cloud operations, and hands-on AI/ML experience.
+I'm an **AWS Cloud and AI Professional** with 9+ years at Amazon across AWS and Alexa AI — combining enterprise customer success, Cloud FinOps, cloud operations, and hands-on AI/ML experience.
 
 ```python
 class CloudAIProfessional:
