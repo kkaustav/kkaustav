@@ -143,20 +143,28 @@ while continuous_learning:
 </div>
 
 <div align="center">
-<table>
+
+<!-- HERO CARD: FinOps BI Agent -->
+<table width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td align="center" style="padding: 16px;">
       <a href="https://github.com/kkaustav/query-agent">
         <img src="https://img.shields.io/badge/FINOPS%20BI%20AGENT-0A84FF?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="FinOps BI Agent" />
       </a>
       <br /><br />
-      <b>AWS Bedrock (Nova Pro) · Athena · Trino · DynamoDB · ECS Fargate · Docker</b>
+      <b>AWS Bedrock (Nova Pro) · Athena (Trino) · DynamoDB · ECS Fargate · Docker · Streamlit</b>
       <br /><br />
-      Autonomous serverless Text-to-SQL copilot and FinOps lakehouse on AWS. Translates natural language into AST-sanitized Trino SQL, enforces strict 100 MB scan limits, and delivers 3-tier diagnostics (spend trends, root-cause hypotheses, and cost optimization actions) over AWS CUR datasets.
+      Autonomous serverless Text-to-SQL copilot and FinOps lakehouse on AWS. Translates plain-English inquiries into AST-sanitized Trino SQL, enforces strict 100 MB scan limits via Athena workgroups, and delivers 3-tier diagnostic narratives (spend trends, candidate root causes, and prescriptive optimization actions) over AWS CUR datasets.
       <br /><br />
-      🔗 <a href="https://query-agent.streamlit.app/">Live Demo</a> · <a href="https://github.com/kkaustav/query-agent">Repository</a>
+      🔗 <a href="https://query-agent.streamlit.app/">Live Demo</a> &nbsp;|&nbsp; 🔗 <a href="https://github.com/kkaustav/query-agent">Repository</a>
     </td>
-    <td width="50%" align="center">
+  </tr>
+</table>
+
+<!-- 2x2 PROJECT GRID -->
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top" style="padding: 14px;">
       <a href="https://github.com/kkaustav/cloud-config-auditor">
         <img src="https://img.shields.io/badge/AWS%20SECURITY%20AUDITOR-FF9900?style=for-the-badge&logo=pytorch&logoColor=white" alt="AWS Security Auditor" />
       </a>
@@ -167,20 +175,20 @@ while continuous_learning:
       <br /><br />
       🔗 <a href="https://github.com/kkaustav/cloud-config-auditor">Repository</a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top" style="padding: 14px;">
       <a href="https://github.com/kkaustav/flight-booker-alexa-skill">
         <img src="https://img.shields.io/badge/ALEXA%20FLIGHT%20BOOKER-00CAFF?style=for-the-badge&logo=amazonalexa&logoColor=white" alt="Alexa Flight Booker" />
       </a>
       <br /><br />
       <b>Amazon Alexa · AWS Lambda · Python 3.12 · SerpAPI · Serverless</b>
       <br /><br />
-      Fully voice-activated flight search skill using Amazon Alexa and serverless Python functions on AWS Lambda, enabling dynamic route, timing, and fare lookups via SerpAPI.
+      Fully voice-activated flight search skill built with Amazon Alexa and serverless Python functions on AWS Lambda, enabling dynamic route, timing, and fare lookups via SerpAPI.
       <br /><br />
       🔗 <a href="https://github.com/kkaustav/flight-booker-alexa-skill">Repository</a>
     </td>
-    <td width="50%" align="center">
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top" style="padding: 14px;">
       <a href="https://github.com/kkaustav/mcp-bakery-agent">
         <img src="https://img.shields.io/badge/BAKERY%20INTELLIGENCE%20AGENT-00C49F?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Bakery Intelligence Agent" />
       </a>
@@ -191,9 +199,7 @@ while continuous_learning:
       <br /><br />
       🔗 <a href="https://github.com/kkaustav/mcp-bakery-agent">Repository</a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top" style="padding: 14px;">
       <a href="https://github.com/kkaustav/github-card-generator">
         <img src="https://img.shields.io/badge/GITHUB%20DEV%20CARD%20GENERATOR-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Dev Card Generator" />
       </a>
@@ -204,11 +210,11 @@ while continuous_learning:
       <br /><br />
       🔗 <a href="https://github.com/kkaustav/github-card-generator">Repository</a>
     </td>
-    <td width="50%" align="center">
-      <!-- Empty slot -->
-    </td>
   </tr>
 </table>
+
+</div>
+
 </div>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 
