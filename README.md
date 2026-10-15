@@ -169,6 +169,19 @@ while continuous_learning:
 🎓 AWS Certified Trainer<br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
+
+<div>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FF9933&vCenter=true&width=750&height=40&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%8F%86+ACHIEVEMENTS" alt="ACHIEVEMENTS" />
+</div>
+
+<p align="left">
+  🏆 <strong>Global Account Team Engagement Support SME Badge</strong>, recognizing deep expertise in resolving complex, high-severity Account Access Management cases with a strong command of policy competencies and known issues.<br><br>
+  🚀 Delivered <strong>55 global automation and process-improvement projects</strong> and earned multiple recognition awards for customer obsession, ownership, and crisis resolution.<br><br>
+  📜 Achieved all <strong>5 AWS Micro-credentials</strong> in Agentic AI, MLOps, Incident Response, Application Networking, and Serverless at the Demonstrated level.<br><br>
+  🤝 Consistently recognized by peers, Account Managers, and Senior Leadership for <strong>mentorship, quality improvements, and process excellence</strong> across key product launches.
+</p>
+
 <p align="center">
   <a href="https://kaustubhkar.com">
     <img src="https://img.shields.io/badge/WEBSITE-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
