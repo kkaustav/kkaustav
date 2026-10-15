@@ -172,7 +172,7 @@ while continuous_learning:
   <!-- ROW 1: Content -->
   <tr>
     <td width="50%" align="center" valign="top" style="padding: 16px 16px 8px 16px;">
-      <a href="https://github.com/kkaustav/aws-cloud-security-auditor">
+      <a href="https://github.com/kkaustav/cloud-config-auditor">
         <img src="https://img.shields.io/badge/AWS%20SECURITY%20AUDITOR-FF9900?style=for-the-badge&logo=pytorch&logoColor=white" alt="AWS Security Auditor" />
       </a>
       <br /><br />
@@ -181,7 +181,7 @@ while continuous_learning:
       Grand Finalist — Top 800 of 31,000 teams at Meta × PyTorch OpenEnv Hackathon. Fine-tuned 3B parameter model achieving <i>97.6% detection accuracy</i> for AWS misconfigurations.
     </td>
     <td width="50%" align="center" valign="top" style="padding: 16px 16px 8px 16px;">
-      <a href="https://github.com/kkaustav/alexa-flight-search-skill">
+      <a href="https://github.com/kkaustav/flight-booker-alexa-skill">
         <img src="https://img.shields.io/badge/ALEXA%20FLIGHT%20BOOKER-00CAFF?style=for-the-badge&logo=amazonalexa&logoColor=white" alt="Alexa Flight Booker" />
       </a>
       <br /><br />
@@ -193,12 +193,12 @@ while continuous_learning:
   <!-- ROW 1: Buttons Locked Baseline -->
   <tr>
     <td align="center" valign="bottom" style="padding: 0 16px 16px 16px;">
-      <a href="https://github.com/kkaustav/aws-cloud-security-auditor">
+      <a href="https://github.com/kkaustav/cloud-config-auditor">
         <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
       </a>
     </td>
     <td align="center" valign="bottom" style="padding: 0 16px 16px 16px;">
-      <a href="https://github.com/kkaustav/alexa-flight-search-skill">
+      <a href="https://github.com/kkaustav/flight-booker-alexa-skill">
         <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
       </a>
     </td>
@@ -206,7 +206,7 @@ while continuous_learning:
   <!-- ROW 2: Content -->
   <tr>
     <td width="50%" align="center" valign="top" style="padding: 16px 16px 8px 16px;">
-      <a href="https://github.com/kkaustav/bakery-intelligence-agent">
+      <a href="https://github.com/kkaustav/mcp-bakery-agent">
         <img src="https://img.shields.io/badge/BAKERY%20INTELLIGENCE%20AGENT-00C49F?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Bakery Intelligence Agent" />
       </a>
       <br /><br />
@@ -215,7 +215,7 @@ while continuous_learning:
       AI-powered location intelligence agent using Google ADK and MCP servers to help business owners make data-driven decisions on foot traffic, competitor pricing, and demographics.
     </td>
     <td width="50%" align="center" valign="top" style="padding: 16px 16px 8px 16px;">
-      <a href="https://github.com/kkaustav/github-dev-card-generator">
+      <a href="https://github.com/kkaustav/github-card-generator">
         <img src="https://img.shields.io/badge/GITHUB%20DEV%20CARD%20GENERATOR-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Dev Card Generator" />
       </a>
       <br /><br />
@@ -227,12 +227,12 @@ while continuous_learning:
   <!-- ROW 2: Buttons Locked Baseline -->
   <tr>
     <td align="center" valign="bottom" style="padding: 0 16px 16px 16px;">
-      <a href="https://github.com/kkaustav/bakery-intelligence-agent">
+      <a href="https://github.com/kkaustav/mcp-bakery-agent">
         <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
       </a>
     </td>
     <td align="center" valign="bottom" style="padding: 0 16px 16px 16px;">
-      <a href="https://github.com/kkaustav/github-dev-card-generator">
+      <a href="https://github.com/kkaustav/github-card-generator">
         <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
       </a>
     </td>
