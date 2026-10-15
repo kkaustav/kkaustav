@@ -163,7 +163,7 @@ while continuous_learning:
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&color=FF9933&vCenter=true&width=750&height=40&duration=1&pause=9999999&repeat=false&cursor=%20&lines=%F0%9F%8F%85+CERTIFICATIONS" alt="CERTIFICATIONS" />
 </div>
 
-🎓 FinOps Certified Practitioner, Oct 2026 - Oct 2028<br>
+🎓 FinOps Certified Practitioner, Oct 2026 — Oct 2028<br>
 🎓 AWS Certified AI Practitioner, Jun 2026 — Jun 2029<br>
 🎓 AWS Certified Cloud Practitioner, Sept 2026 — Sept 2029<br>
 🎓 AWS Certified Trainer<br>
