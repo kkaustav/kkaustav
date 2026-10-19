@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://badge.ws/badge/Profile%20views/total?color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=0e75b6&label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fkkaustav%2Fvisits" alt="Profile views" />
   &nbsp;
   <a href="https://www.linkedin.com/in/kaustubhkar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
