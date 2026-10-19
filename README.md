@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kkaustav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkaustav&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=true" alt="Profile views" />
   &nbsp;
   <a href="https://www.linkedin.com/in/kaustubhkar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
